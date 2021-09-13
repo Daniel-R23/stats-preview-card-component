@@ -1,25 +1,25 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Essa é a solução para o [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
 
-## Table of contents
+## Sumário
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [Visão Geral](#overview)
+  - [O Desafio](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+- [Processo](#my-process)
+  - [O Que Aprendi](#what-i-learned)
+- [Autor](#author)
 
 
-## Overview
+## Visão Geral
 
-### The challenge
+### O Desafio
 
-Users should be able to:
+Os usuários deverão ser capazes de:
 
-- View the optimal layout depending on their device's screen size
+- Ver o layout ideal dependendo do tamanho da tela do dispositivo
 
 ### Screenshot
 
@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Daniel-R23/stats-preview-card-component)
-- Live Site URL:[Live Site](https://daniel-r23.github.io/stats-preview-card-component)
+- URL Solução : [Solution URL](https://github.com/Daniel-R23/stats-preview-card-component)
+- URL Site:[Live Site](https://daniel-r23.github.io/stats-preview-card-component)
 
-## My process
+## Processo
 
-### What I learned
+### O Que Aprendi
 
 Durante este projeto básico pude revisar conceitos de estruturação HTML, CSS Media Queries.
 
@@ -54,6 +54,6 @@ Durante este projeto básico pude revisar conceitos de estruturação HTML, CSS 
         }
 ```
 
-## Author
+## Autor
 
 - Frontend Mentor - [@Daniel-R23](https://www.frontendmentor.io/profile/Daniel-R23)
